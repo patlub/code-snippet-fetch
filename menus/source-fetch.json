@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Toggle source-fetch",
-        "command": "source-fetch:toggle"
+        "command": "source-fetch:fetch"
       }
     ]
   },
@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "Toggle",
-              "command": "source-fetch:toggle"
+              "command": "source-fetch:fetch"
             }
           ]
         }
